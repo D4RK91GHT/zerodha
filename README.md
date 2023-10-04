@@ -1,12 +1,3 @@
-## Installation
-
-How to use:
-
-```
-# Download the 'kite_trade.py' file
-# keep the file in same directory where your code file is stored
-```
-
 ### Prerequisites
 
 Python >=3.7
